@@ -24,3 +24,23 @@ I am passionate about **Machine Learning** and **Data Science**. I'm eager to wo
 | :-:| :-:| 
 | [<img src = "https://github.com/larsonost/Images/blob/main/fermilab%20(1).jpg" width = 500 height = 300/>](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)| [<img src = "https://github.com/larsonost/Images/blob/main/car.jpg" width = 500 height = 300/>](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)
 
+<h2> My Work Experience </h2> 
+
+__Data Analyst__ | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[Mar 2022 - Present]__
+
+__Research Intern__ | [__Fermi National Accelerator Laboratory__](https://www.fnal.gov/) __[Jun 2020 - Aug 2020]__
+
+__Engineering Intern__ | [__AJR Filtration__](https://www.ajrfiltration.com/) __[Jun 2019 - Aug 2019]__
+
+__Engineering Intern__ | [__Parallel Works__](https://www.parallelworks.com/) __[Jun 2018 - Aug 2018]__
+
+<h2> My Education </h2> 
+
+[__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu)
+
+* Currently Pursuing a M.S. in Data Science
+
+[__Worcester Polytechnic Institute__](https://www.wpi.edu/) 
+
+* Recieved a Bachelor of Science in Mathematical Sciences
+* Graduated with high distinction
