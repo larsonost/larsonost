@@ -12,16 +12,13 @@ I am passionate about **Machine Learning** and **Data Science**. I'm eager to wo
 
 | 🚴‍ [Real-time Sign Language Translation using Convolutional Neural Networks](https://github.com/larsonost)| 🚙 [Improving The YouTube User Experience through Sentiment Analysis](https://github.com/larsonost)|
 | :-:| :-:| 
-| [<img src = "https://github.com/larsonost/Images/blob/main/sign.jpg" width = 300 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 500 height = 300/>](https://github.com/adupatil/covid19_detection)
+| [<img src = "https://github.com/larsonost/Images/blob/main/sign2.jpg" width = 500 height = 300/>](https://github.com/larsonost)| [<img src="https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 500 height = 300/>](https://github.com/larsonost)
 
 | 🏦 [Modeling and Analysis of COVID-19 using Mathematical and Data Analytic Methods](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| 🏄🧘🏻‍♀️ [Assisting Glacier National Park in Achieving Full International Dark Sky Park Status](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Loan%20Default%20Intro%20Image.jpg" width = 500 height = 300/>](https://github.com/adupatil/Loan_credibility_prediction)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/fitsum-admasu-oGv9xIl7DkY-unsplash-min.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/tu3f1718036/hackerearth-predicting-churn-risk-rate)
+| [<img src = "https://github.com/larsonost/Images/blob/main/coronavirus.jpg" width = 500 height = 300/>](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [<img src = "https://github.com/larsonost/Images/blob/main/gnp.jpg" width = 500 height = 300/>](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)
 
-| ⚕️ [The Implementation of a 4D Helical Track Fitter in REDTOP Simulations at Fermi National Accelerator Laboratory](https://www.kaggle.com/code/tu3f1718036/cityscapes-segmentation)| 🫀 [Image Generator Using GANs](https://github.com/adupatil/Image_Generator)|
+| ⚕️ [The Implementation of a 4D Helical Track Fitter in REDTOP Simulations at Fermi National Accelerator Laboratory](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)| 🫀 [Car Object Detection](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Cancer%20Diagnosis%20Prediction%20Image-min.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/tu3f1718036/cityscapes-segmentation)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Heart%20Disease%20Prediction-min.jpg" width = 500 height = 300/>](https://github.com/adupatil/Image_Generator)
+| [<img src = "https://github.com/larsonost/Images/blob/main/fermilab%20(1).jpg" width = 500 height = 300/>](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)| [<img src = "https://github.com/larsonost/Images/blob/main/car.jpg" width = 500 height = 300/>](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)
 
-| 🏚 [TItanic Survival Prediction](https://www.kaggle.com/code/tu3f1718036/titanic-survival)| [Face Detector](https://github.com/adupatil/Face_detector)|
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/AirBnb%20Houses%20Introduction-min.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/tu3f1718036/titanic-survival)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Telco%20Customer%20Churn%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/adupatil/Face_detector)|
