@@ -12,7 +12,7 @@ I am passionate about **Machine Learning** and **Data Science**. I'm eager to wo
 
 | 🚴‍ [Real-time Sign Language Translation using Convolutional Neural Networks](https://github.com/larsonost)| 🚙 [Improving The YouTube User Experience through Sentiment Analysis](https://github.com/larsonost)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Image%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/adupatil/covid19_detection)
+| [<img src = "https://github.com/larsonost/Images/blob/main/sign.jpg" width = 300 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 500 height = 300/>](https://github.com/adupatil/covid19_detection)
 
 | 🏦 [Modeling and Analysis of COVID-19 using Mathematical and Data Analytic Methods](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| 🏄🧘🏻‍♀️ [Assisting Glacier National Park in Achieving Full International Dark Sky Park Status](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)|
 | :-:| :-:| 
