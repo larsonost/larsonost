@@ -1,6 +1,6 @@
 <h2>  About Me: </h2>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/larson-ost)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larson-ost-b47707192/)
 
 I am a **Data Analyst** and __M.S. in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__.
 
