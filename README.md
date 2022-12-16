@@ -14,11 +14,11 @@ I am passionate about **Machine Learning** and **Data Science**. I'm eager to wo
 
 | 🚴‍ [Real-time Sign Language Translation using Convolutional Neural Networks](https://github.com/larsonost)| 🚙 [Improving The YouTube User Experience through Sentiment Analysis](https://github.com/larsonost)|
 | :-:| :-:| 
-| [<img src = "https://github.com/larsonost/Images/blob/main/sign3.jpg" width = 500 height = 300/>](https://github.com/larsonost)| [<img src="https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 500 height = 300/>](https://github.com/larsonost)
+| [<img src = "https://github.com/larsonost/Images/blob/main/sign3.jpg" width = 300 height = 300/>](https://github.com/larsonost)| [<img src="https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 500 height = 300/>](https://github.com/larsonost)
 
 | 🏦 [Modeling and Analysis of COVID-19 using Mathematical and Data Analytic Methods](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| 🏄🧘🏻‍♀️ [Assisting Glacier National Park in Achieving Full International Dark Sky Park Status](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)|
 | :-:| :-:| 
-| [<img src = "https://github.com/larsonost/Images/blob/main/covid.jpg" width = 500 height = 300/>](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [<img src = "https://github.com/larsonost/Images/blob/main/gnp.jpg" width = 500 height = 300/>](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)
+| [<img src = "https://github.com/larsonost/Images/blob/main/covid.jpg" width = 300 height = 300/>](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [<img src = "https://github.com/larsonost/Images/blob/main/gnp.jpg" width = 500 height = 300/>](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)
 
 | ⚕️ [The Implementation of a 4D Helical Track Fitter in REDTOP Simulations at Fermi National Accelerator Laboratory](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)| 🫀 [Car Object Detection](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)|
 | :-:| :-:| 
