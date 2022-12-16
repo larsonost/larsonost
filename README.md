@@ -26,7 +26,7 @@ I am passionate about **Machine Learning** and **Data Science**. I'm eager to wo
 
 <h2> My Work Experience </h2> 
 
-__Data Analyst__ | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[Mar 2022 - Present]__
+__Data Analyst__ | [__Whimsy Intermodal__](http://www.whimsytrucking.com/) __[Mar 2022 - Present]__
 
 __Research Intern__ | [__Fermi National Accelerator Laboratory__](https://www.fnal.gov/) __[Jun 2020 - Aug 2020]__
 
