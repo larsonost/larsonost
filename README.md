@@ -12,7 +12,7 @@ I am passionate about **Machine Learning** and **Data Science**. I'm eager to wo
 
 <h2> My Projects </h2> 
 
-| [Real-time Sign Language Translation using Convolutional Neural Networks](https://github.com/larsonost/Images/blob/main/DS5220_Final_Project_Report.pdf)| [The Implementation of a 4D Helical Track Fitter in REDTOP Simulations at Fermi National Accelerator Laboratory](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)|
+| [Real-time Sign Language Translation using Convolutional Neural Networks](https://github.com/larsonost/ASL_Detection_Live)| [The Implementation of a 4D Helical Track Fitter in REDTOP Simulations at Fermi National Accelerator Laboratory](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)|
 | :-:| :-:| 
 | [<img src = "https://github.com/larsonost/Images/blob/main/sign3.jpg" width = 400 height = 300/>](https://github.com/larsonost/Images/blob/main/DS5220_Final_Project_Report.pdf)| [<img src = "https://github.com/larsonost/Images/blob/main/fermilab%20(1).jpg" width = 500 height = 300/>](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)
 
