@@ -26,7 +26,9 @@ I am passionate about **Machine Learning** and **Data Science**. I'm eager to wo
 
 <h2> My Work Experience </h2> 
 
-__Data Analyst__ | [__Whimsy Intermodal__](http://www.whimsytrucking.com/) __[Mar 2022 - Present]__
+__Data Science Intern__ | [__New Balance__](https://www.newbalance.com/) __[May 2023 - Aug 2023]__
+
+__Data Analyst__ | [__Whimsy Intermodal__](http://www.whimsytrucking.com/) __[Mar 2022 - Dec 2022]__
 
 __Research Intern__ | [__Fermi National Accelerator Laboratory__](https://www.fnal.gov/) __[Jun 2020 - Aug 2020]__
 
