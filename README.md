@@ -20,10 +20,9 @@ I am passionate about **Machine Learning** and **Data Science**. I'm eager to wo
 | :-:| :-:| 
 | [<img src = "https://github.com/larsonost/Images/blob/main/covid.jpg" width = 400 height = 300/>](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [<img src = "https://github.com/larsonost/Images/blob/main/gnp.jpg" width = 500 height = 300/>](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)
 
-| [Improving The YouTube User Experience through Sentiment Analysis](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [Evaluating Paraphrase
-Detection Methods](https://github.com/larsonost/CS6120-Project)|
+| [Improving The YouTube User Experience through Sentiment Analysis](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [Evaluating Paraphrase Detection Methods](https://github.com/larsonost/CS6120-Project)|
 | :-:| :-:| 
-| [<img src="https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 500 height = 300/>](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [<img src = "https://github.com/larsonost/Images/blob/main/paraphrase2.jpg" width = 500 height = 300/>](https://github.com/larsonost/CS6120-Project)
+| [<img src = "https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 400 height = 300/>](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [<img src = "https://github.com/larsonost/Images/blob/main/paraphrase2.jpg" width = 500 height = 300/>](https://github.com/larsonost/CS6120-Project)
 
 <h2> My Work Experience </h2> 
 
