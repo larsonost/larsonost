@@ -4,7 +4,7 @@
 
 I am a **Data Scientist** and __M.S. in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__.
 
-I am passionate about **Machine Learning** and **Data Science**. I'm eager to work on solving interesting problems across diverse domains especially in the field of **deep learning** and **computer vision**. Within this page I have provided an overview of my skills, projects, and experience.
+I am passionate about **Machine Learning** and **Data Science**. I'm eager to work on solving interesting problems across diverse domains especially in the field of **deep learning** and **natural language processing**. Within this page I have provided an overview of my skills, projects, and experience.
 
 <h2> My Skills: </h2>
 
@@ -20,9 +20,10 @@ I am passionate about **Machine Learning** and **Data Science**. I'm eager to wo
 | :-:| :-:| 
 | [<img src = "https://github.com/larsonost/Images/blob/main/covid.jpg" width = 400 height = 300/>](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [<img src = "https://github.com/larsonost/Images/blob/main/gnp.jpg" width = 500 height = 300/>](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)
 
-| [Improving The YouTube User Experience through Sentiment Analysis](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| 🫀 [Car Object Detection](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)|
+| [Improving The YouTube User Experience through Sentiment Analysis](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [Evaluating Paraphrase
+Detection Methods](https://github.com/larsonost/CS6120-Project)|
 | :-:| :-:| 
-| [<img src="https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 500 height = 300/>](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [<img src = "https://github.com/larsonost/Images/blob/main/car.jpg" width = 500 height = 300/>](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)
+| [<img src="https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 500 height = 300/>](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [<img src = "https://github.com/larsonost/Images/blob/main/paraphrase.jpg" width = 500 height = 300/>](https://github.com/larsonost/CS6120-Project)
 
 <h2> My Work Experience </h2> 
 
