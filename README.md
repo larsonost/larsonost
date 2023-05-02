@@ -16,13 +16,13 @@ I am passionate about **Machine Learning** and **Data Science**. I'm eager to wo
 | :-:| :-:| 
 | [<img src = "https://github.com/larsonost/Images/blob/main/sign3.jpg" width = 400 height = 300/>](https://github.com/larsonost/ASL_Detection_Live)| [<img src = "https://github.com/larsonost/Images/blob/main/fermilab%20(1).jpg" width = 500 height = 300/>](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)
 
-| [Modeling and Analysis of COVID-19 using Mathematical and Data Analytic Methods](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [Assisting Glacier National Park in Achieving Full International Dark Sky Park Status](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)|
+| [Modeling and Analysis of COVID-19 using Mathematical and Data Analytic Methods](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [Evaluating Paraphrase Detection Methods](https://github.com/larsonost/CS6120-Project) |
 | :-:| :-:| 
-| [<img src = "https://github.com/larsonost/Images/blob/main/covid.jpg" width = 400 height = 300/>](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [<img src = "https://github.com/larsonost/Images/blob/main/gnp.jpg" width = 500 height = 300/>](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)
+| [<img src = "https://github.com/larsonost/Images/blob/main/covid.jpg" width = 400 height = 300/>](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [<img src = "https://github.com/larsonost/Images/blob/main/paraphrase2.jpg" width = 500 height = 300/>](https://github.com/larsonost/CS6120-Project)
 
-| [Improving The YouTube User Experience through Sentiment Analysis](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [Evaluating Paraphrase Detection Methods](https://github.com/larsonost/CS6120-Project)|
+| [Improving The YouTube User Experience through Sentiment Analysis](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [Assisting Glacier National Park in Achieving Full International Dark Sky Park Status](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en) |
 | :-:| :-:| 
-| [<img src = "https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 400 height = 300/>](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [<img src = "https://github.com/larsonost/Images/blob/main/paraphrase2.jpg" width = 500 height = 300/>](https://github.com/larsonost/CS6120-Project)
+| [<img src = "https://github.com/larsonost/Images/blob/main/youtube.jpg" width = 400 height = 300/>](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [<img src = "https://github.com/larsonost/Images/blob/main/gnp.jpg" width = 500 height = 300/>](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en)
 
 <h2> My Work Experience </h2> 
 
