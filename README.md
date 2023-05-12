@@ -32,9 +32,9 @@ __Data Analyst__ | [__Whimsy Intermodal__](http://www.whimsytrucking.com/) __[Ma
 
 __Research Intern__ | [__Fermi National Accelerator Laboratory__](https://www.fnal.gov/) __[Jun 2020 - Aug 2020]__
 
-__Engineering Intern__ | [__AJR Filtration__](https://www.ajrfiltration.com/) __[Jun 2019 - Aug 2019]__
+__Engineer Intern__ | [__AJR Filtration__](https://www.ajrfiltration.com/) __[Jun 2019 - Aug 2019]__
 
-__Engineering Intern__ | [__Parallel Works__](https://www.parallelworks.com/) __[Jun 2018 - Aug 2018]__
+__Software Engineer Intern__ | [__Parallel Works__](https://www.parallelworks.com/) __[Jun 2018 - Aug 2018]__
 
 <h2> My Education </h2> 
 
