@@ -41,6 +41,7 @@ __Software Engineer Intern__ | [__Parallel Works__](https://www.parallelworks.co
 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu)
 
 * Currently Pursuing a M.S. in Data Science
+* GPA: 4.00
 
 [__Worcester Polytechnic Institute__](https://www.wpi.edu/) 
 
