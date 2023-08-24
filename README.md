@@ -48,7 +48,7 @@ __Software Engineer Intern__ | [__Parallel Works__](https://www.parallelworks.co
 * Recieved a Bachelor of Science in Mathematical Sciences
 * Graduated with high distinction
 
-<h2> My Coursework </h2> 
+<h2> Graduate Coursework </h2> 
 
 * Introduction to Data Management and Processing
 * Fundamentals of Computer Engineering
