@@ -4,7 +4,7 @@
 
 I am a **Data Scientist** and __M.S. in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__.
 
-I am passionate about **Machine Learning** and **Data Science**. I'm eager to work on solving interesting problems across diverse domains especially in the field of **deep learning** and **natural language processing**. Within this page I have provided an overview of my skills, projects, and experience.
+I am currently pursuing my Master’s in Data Science at Northeastern University, Boston. Through projects and work experience I have gained proficiency in deep learning frameworks, scripting languages, and database management. I am looking to pursue a career in **deep learning** and **natural language processing**.
 
 <h2> My Skills: </h2>
 
@@ -47,3 +47,13 @@ __Software Engineer Intern__ | [__Parallel Works__](https://www.parallelworks.co
 
 * Recieved a Bachelor of Science in Mathematical Sciences
 * Graduated with high distinction
+
+<h2> My Coursework </h2> 
+
+* Introduction to Data Management and Processing
+* Fundamentals of Computer Engineering
+* Supervised Machine Learning and Learning Theory
+* Unsupervised Machine Learning and Data Mining
+* Web Development
+* Deep Learning
+* Capstone: Applications in Data Science
