@@ -54,6 +54,7 @@ __Software Engineer Intern__ | [__Parallel Works__](https://www.parallelworks.co
 * Fundamentals of Computer Engineering
 * Supervised Machine Learning and Learning Theory
 * Unsupervised Machine Learning and Data Mining
+* Natural Language Processing
 * Web Development
 * Deep Learning
 * Capstone: Applications in Data Science
