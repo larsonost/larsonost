@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larson-ost-b47707192/)
 
-I am a **Data Scientist** and __M.S. in Data Science__ student at __Northeastern University Khoury College of Computer Sciences__.
+I am a **Data Scientist** with my __M.S. in Data Science__ from __Northeastern University Khoury College of Computer Sciences__.
 
 <h2> My Skills: </h2>
 
@@ -24,6 +24,8 @@ I am a **Data Scientist** and __M.S. in Data Science__ student at __Northeastern
 
 <h2> My Work Experience </h2> 
 
+__Data Scientist__ | [__New Balance__](https://www.newbalance.com/) __[January 2024 - Present]__
+
 __Data Science Intern__ | [__New Balance__](https://www.newbalance.com/) __[May 2023 - Aug 2023]__
 
 __Data Analyst__ | [__Whimsy Intermodal__](http://www.whimsytrucking.com/) __[Mar 2022 - Dec 2022]__
@@ -38,7 +40,7 @@ __Software Engineer Intern__ | [__Parallel Works__](https://www.parallelworks.co
 
 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu)
 
-* Currently Pursuing a M.S. in Data Science
+* Recieved a Master of Science in Data Science
 * GPA: 4.00
 
 [__Worcester Polytechnic Institute__](https://www.wpi.edu/) 
@@ -54,5 +56,5 @@ __Software Engineer Intern__ | [__Parallel Works__](https://www.parallelworks.co
 * Unsupervised Machine Learning and Data Mining
 * Natural Language Processing
 * Web Development
-* Deep Learning
+* Parallel Processing for Data Analytics
 * Capstone: Applications in Data Science
