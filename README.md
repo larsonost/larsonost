@@ -10,9 +10,13 @@ I am a **Data Scientist** with my __M.S. in Data Science__ from __Northeastern U
 
 <h2> My Projects </h2> 
 
-| [Real-time Sign Language Translation using Convolutional Neural Networks](https://github.com/larsonost/ASL_Detection_Live)| [The Implementation of a 4D Helical Track Fitter in REDTOP Simulations at Fermi National Accelerator Laboratory](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)|
+| [Visual Question Answering](https://github.com/larsonost/Visual_Question_Answering)| [Real-time Sign Language Translation using Convolutional Neural Networks](https://github.com/larsonost/ASL_Detection_Live)|
 | :-:| :-:| 
-| [<img src = "https://github.com/larsonost/Images/blob/main/sign3.jpg" width = 400 height = 300/>](https://github.com/larsonost/ASL_Detection_Live)| [<img src = "https://github.com/larsonost/Images/blob/main/fermilab%20(1).jpg" width = 500 height = 300/>](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)
+| [<img src = "https://github.com/larsonost/Images/blob/main/vqa.png" width = 500 height = 300/>](https://github.com/larsonost/Visual_Question_Answering)| [<img src = "https://github.com/larsonost/Images/blob/main/hand2.jpg" width = 400 height = 300/>](https://github.com/larsonost/ASL_Detection_Live)|
+
+| [Parallel Recognition for Severe Diabetic Retinopathy](https://github.com/larsonost/Parallel-Retinopathy-Detection)| [The Implementation of a 4D Helical Track Fitter in REDTOP Simulations at Fermi National Accelerator Laboratory](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)|
+| :-:| :-:| 
+| [<img src = "https://github.com/larsonost/Images/blob/main/eye.png" width = 400 height = 300/>](https://github.com/larsonost/Parallel-Retinopathy-Detection)| [<img src = "https://github.com/larsonost/Images/blob/main/fermilab%20(1).jpg" width = 500 height = 300/>](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)
 
 | [Modeling and Analysis of COVID-19 using Mathematical and Data Analytic Methods](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [Evaluating Paraphrase Detection Methods](https://github.com/larsonost/CS6120-Project) |
 | :-:| :-:| 
