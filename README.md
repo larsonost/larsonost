@@ -12,7 +12,7 @@ I am a **Data Scientist** with my __M.S. in Data Science__ from __Northeastern U
 
 | [Visual Question Answering](https://github.com/larsonost/Visual_Question_Answering)| [Real-time Sign Language Translation using Convolutional Neural Networks](https://github.com/larsonost/ASL_Detection_Live)|
 | :-:| :-:| 
-| [<img src = "https://github.com/larsonost/Images/blob/main/vqa.png" width = 500 height = 300/>](https://github.com/larsonost/Visual_Question_Answering)| [<img src = "https://github.com/larsonost/Images/blob/main/hand2.jpg" width = 400 height = 300/>](https://github.com/larsonost/ASL_Detection_Live)|
+| [<img src = "https://github.com/larsonost/Images/blob/main/vqa2.jpg" width = 500 height = 300/>](https://github.com/larsonost/Visual_Question_Answering)| [<img src = "https://github.com/larsonost/Images/blob/main/hand2.jpg" width = 400 height = 300/>](https://github.com/larsonost/ASL_Detection_Live)|
 
 | [Parallel Recognition for Severe Diabetic Retinopathy](https://github.com/larsonost/Parallel-Retinopathy-Detection)| [The Implementation of a 4D Helical Track Fitter in REDTOP Simulations at Fermi National Accelerator Laboratory](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)|
 | :-:| :-:| 
