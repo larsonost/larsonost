@@ -2,17 +2,17 @@
 
 <h2> My Projects </h2> 
 
-| [Visual Question Answering](https://github.com/larsonost/Visual_Question_Answering)| [Real-time Sign Language Translation using Convolutional Neural Networks](https://github.com/larsonost/ASL_Detection_Live)|
+| [Visual Question Answering](https://github.com/larsonost/Visual_Question_Answering_Reupload)| [Real-time Sign Language Translation using Convolutional Neural Networks](https://github.com/larsonost/ASL_Detection_Live)|
 | :-:| :-:| 
-| [<img src = "https://github.com/larsonost/Images/blob/main/vqa2.jpg" width = 500 height = 300/>](https://github.com/larsonost/Visual_Question_Answering)| [<img src = "https://github.com/larsonost/Images/blob/main/hand2.jpg" width = 400 height = 300/>](https://github.com/larsonost/ASL_Detection_Live)|
+| [<img src = "https://github.com/larsonost/Images/blob/main/vqa2.jpg" width = 500 height = 300/>](https://github.com/larsonost/Visual_Question_Answering_Reupload)| [<img src = "https://github.com/larsonost/Images/blob/main/hand2.jpg" width = 400 height = 300/>](https://github.com/larsonost/ASL_Detection_Live)|
 
 | [Parallel Recognition for Severe Diabetic Retinopathy](https://github.com/larsonost/Parallel-Retinopathy-Detection)| [The Implementation of a 4D Helical Track Fitter in REDTOP Simulations at Fermi National Accelerator Laboratory](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)|
 | :-:| :-:| 
 | [<img src = "https://github.com/larsonost/Images/blob/main/eye.png" width = 400 height = 300/>](https://github.com/larsonost/Parallel-Retinopathy-Detection)| [<img src = "https://github.com/larsonost/Images/blob/main/fermilab%20(1).jpg" width = 500 height = 300/>](https://github.com/larsonost/Images/blob/main/WritingSample.pdf)
 
-| [Modeling and Analysis of COVID-19 using Mathematical and Data Analytic Methods](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [Evaluating Paraphrase Detection Methods](https://github.com/larsonost/CS6120-Project) |
+| [Modeling and Analysis of COVID-19 using Mathematical and Data Analytic Methods](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [Evaluating Paraphrase Detection Methods](https://github.com/larsonost/CS6120-Project-Reupload) |
 | :-:| :-:| 
-| [<img src = "https://github.com/larsonost/Images/blob/main/covid.jpg" width = 400 height = 300/>](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [<img src = "https://github.com/larsonost/Images/blob/main/paraphrase2.jpg" width = 500 height = 300/>](https://github.com/larsonost/CS6120-Project)
+| [<img src = "https://github.com/larsonost/Images/blob/main/covid.jpg" width = 400 height = 300/>](https://digital.wpi.edu/concern/student_works/n296x2114?locale=en)| [<img src = "https://github.com/larsonost/Images/blob/main/paraphrase2.jpg" width = 500 height = 300/>](https://github.com/larsonost/CS6120-Project-Reupload)
 
 | [Improving The YouTube User Experience through Sentiment Analysis](https://github.com/larsonost/Images/blob/main/DS5110_Project_Report.pdf)| [Assisting Glacier National Park in Achieving Full International Dark Sky Park Status](https://digitalwpi.wpi.edu/concern/student_works/kk91fp18n?locale=en) |
 | :-:| :-:| 
